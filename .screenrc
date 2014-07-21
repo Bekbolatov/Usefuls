@@ -1,0 +1,7 @@
+hardstatus on
+hardstatus alwayslastline
+
+backtick 1 60 60 /Users/renatb/scripts/bin/getsty
+hardstatus string "%{+ kg}%-Lw%{+s bg}[%n%f: %t]%{-}%+Lw    %=  [%{+u bg}%H%{-}] %{-}"
+
+
