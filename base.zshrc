@@ -6,7 +6,7 @@ GIT_PS1_SHOWUPSTREAM="yes"
 GIT_PS1_SHOWCOLORHINTS="yes"
 GIT_PS1_SHOWDIRTYSTATE="yes"
 source ~/.git-prompt.sh
-precmd () { __git_ps1 "" "|%~$ " "%s" }
+precmd () { __git_ps1 "[" "]%~$ " "%s" }
 
 
 # history
