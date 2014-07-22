@@ -2,8 +2,7 @@ hardstatus on
 hardstatus alwayslastline
 
 backtick 1 60 60 /Users/renatb/scripts/bin/getsty
-backtick 2 30 30 sh -c 'screen -ls | grep --color=no -o "$PPID[^[:space:]]*"'
+backtick 2 60 60 sh -c 'screen -ls | grep --color=no -o "$PPID[^[:space:]]*" | awk -F.  '"'"'  { print $2 }  '"'"'  ' 
 
 hardstatus string "%{+ kg}%-Lw%{+s bg}[%n%f: %t]%{-}%+Lw    %=  [%{+u bg}%2`%{-}] [%{+u bg}%H%{-}] %{-}"
-
 
