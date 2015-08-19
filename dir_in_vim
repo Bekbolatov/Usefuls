@@ -1,0 +1,8 @@
+/Users/rbekbolatov/.vim
+├── autoload
+│   └── pathogen.vim
+└── bundle
+    ├── vim-fugitive
+    └── vim-scala
+
+4 directories, 1 file

@@ -1,0 +1,59 @@
+../../
+├── Lasagne
+│   └── Lasagne
+├── Newmu
+│   └── Theano-Tutorials
+├── Theano
+│   └── Theano
+├── antinucleon
+│   └── cxxnet
+├── bekbolatov
+│   ├── Coursework
+│   ├── Usefuls
+│   ├── kaggle
+│   └── spark
+├── bvlc
+│   └── caffe
+├── christophebourguignat
+│   └── notebooks
+├── dmlc
+│   ├── cxxnet
+│   └── xgboost
+├── fchollet
+│   └── keras
+├── git
+│   └── git
+├── goodfeli
+│   └── theano_exercises
+├── guestwalk
+│   ├── kaggle-2014-criteo
+│   ├── kaggle-avazu
+│   └── libffm
+├── rcongiu
+│   └── Hive-JSON-Serde
+├── skrusche63
+│   ├── AMES-Web-Service
+│   ├── akka-nlp
+│   ├── elastic-insight
+│   ├── gate-server
+│   ├── scala-arules
+│   ├── scala-kafka
+│   ├── scala-text
+│   ├── spark-churn
+│   ├── spark-decision
+│   ├── spark-elastic
+│   ├── spark-fm
+│   ├── spark-fsm
+│   ├── spark-intent
+│   ├── spark-jobserver
+│   ├── spark-piwik
+│   ├── spark-social
+│   └── spark-weblog
+├── spray
+│   └── spray-template
+├── witgo
+│   └── zen
+└── zhengruifeng
+    └── spark-libFM
+
+56 directories, 0 files

@@ -1,3 +1,7 @@
+execute pathogen#infect()
+syntax on
+filetype plugin indent on
+
 set paste
 set nu
 set ignorecase
@@ -14,9 +18,8 @@ set ruler
 set modeline
 set ls=2
 
-syntax on
-colorscheme candy
+"colorscheme candy
 
-" Alternative: use the following to also enable language-dependent indenting.
-filetype plugin indent on
+:nmap <C-N><C-N> :set invnumber<CR>
+:nmap <Space> :set invnumber<CR>
 
