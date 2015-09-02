@@ -1,4 +1,4 @@
-../../
+/Users/rbekbolatov/repos/gh
 ├── Lasagne
 │   └── Lasagne
 ├── Newmu
@@ -25,10 +25,16 @@
 │   └── git
 ├── goodfeli
 │   └── theano_exercises
+├── google
+│   └── deepdream
 ├── guestwalk
 │   ├── kaggle-2014-criteo
 │   ├── kaggle-avazu
 │   └── libffm
+├── korbonits
+│   └── korbonits.github.io
+├── pydata
+│   └── pydata-book
 ├── rcongiu
 │   └── Hive-JSON-Serde
 ├── skrusche63
@@ -56,4 +62,4 @@
 └── zhengruifeng
     └── spark-libFM
 
-56 directories, 0 files
+62 directories, 0 files
